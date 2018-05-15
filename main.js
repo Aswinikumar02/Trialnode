@@ -12,4 +12,4 @@ http.createServer(function (request, response) {
 }).listen(8081);
 
 // Console will print the message
-console.log('Server running at http://127.0.0.1:8085/');
+console.log('Server running on http://127.0.0.1:8085/');
